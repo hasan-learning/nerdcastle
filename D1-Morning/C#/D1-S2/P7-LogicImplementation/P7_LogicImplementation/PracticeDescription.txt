@@ -1,0 +1,7 @@
+﻿--------------Logic Implementation----------------
+Current solution allows to keep students'
+information with same registration number
+
+You are asked to write code (inside right class) 
+so that registration number will be unique. 
+

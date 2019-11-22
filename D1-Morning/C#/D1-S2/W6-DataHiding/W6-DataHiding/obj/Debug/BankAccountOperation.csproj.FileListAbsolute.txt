@@ -1,0 +1,11 @@
+D:\OOP(.Net) @ BASIS\Final Content\4. OOP\4.1 Object Oriented Concept and Implementation\4.1.1. Introduction to OO Concept\Solutions\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.exe
+D:\OOP(.Net) @ BASIS\Final Content\4. OOP\4.1 Object Oriented Concept and Implementation\4.1.1. Introduction to OO Concept\Solutions\BankAccountOperation\BankAccountOperation\bin\Debug\BankAccountOperation.pdb
+D:\OOP(.Net) @ BASIS\Final Content\4. OOP\4.1 Object Oriented Concept and Implementation\4.1.1. Introduction to OO Concept\Solutions\BankAccountOperation\BankAccountOperation\obj\Debug\ResolveAssemblyReference.cache
+D:\OOP(.Net) @ BASIS\Final Content\4. OOP\4.1 Object Oriented Concept and Implementation\4.1.1. Introduction to OO Concept\Solutions\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.AccountOperationUI.resources
+D:\OOP(.Net) @ BASIS\Final Content\4. OOP\4.1 Object Oriented Concept and Implementation\4.1.1. Introduction to OO Concept\Solutions\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.Properties.Resources.resources
+D:\OOP(.Net) @ BASIS\Final Content\4. OOP\4.1 Object Oriented Concept and Implementation\4.1.1. Introduction to OO Concept\Solutions\BankAccountOperation\BankAccountOperation\obj\Debug\ResGen.read.1.tlog
+D:\OOP(.Net) @ BASIS\Final Content\4. OOP\4.1 Object Oriented Concept and Implementation\4.1.1. Introduction to OO Concept\Solutions\BankAccountOperation\BankAccountOperation\obj\Debug\ResGen.write.1.tlog
+D:\OOP(.Net) @ BASIS\Final Content\4. OOP\4.1 Object Oriented Concept and Implementation\4.1.1. Introduction to OO Concept\Solutions\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.exe
+D:\OOP(.Net) @ BASIS\Final Content\4. OOP\4.1 Object Oriented Concept and Implementation\4.1.1. Introduction to OO Concept\Solutions\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.pdb
+D:\OOP(.Net) @ BASIS\OOP0141\Class Content and Video\07-June-2013\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.exe
+D:\OOP(.Net) @ BASIS\OOP0141\Class Content and Video\07-June-2013\BankAccountOperation\BankAccountOperation\obj\Debug\BankAccountOperation.pdb

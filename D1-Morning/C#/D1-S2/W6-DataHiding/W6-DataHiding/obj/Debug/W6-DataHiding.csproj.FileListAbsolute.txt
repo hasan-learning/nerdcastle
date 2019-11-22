@@ -1,0 +1,7 @@
+F:\Workshop-OOP-Batch1\D1-S2\W6-DataHiding\W6-DataHiding\obj\Debug\W6-DataHiding.csprojResolveAssemblyReference.cache
+F:\Workshop-OOP-Batch1\D1-S2\W6-DataHiding\W6-DataHiding\obj\Debug\W6_DataHiding.Properties.Resources.resources
+F:\Workshop-OOP-Batch1\D1-S2\W6-DataHiding\W6-DataHiding\obj\Debug\W6-DataHiding.csproj.GenerateResource.Cache
+F:\Workshop-OOP-Batch1\D1-S2\W6-DataHiding\W6-DataHiding\bin\Debug\W6_DataHiding.pdb
+F:\Workshop-OOP-Batch1\D1-S2\W6-DataHiding\W6-DataHiding\obj\Debug\W6_DataHiding.pdb
+F:\Workshop-OOP-Batch1\D1-S2\W6-DataHiding\W6-DataHiding\bin\Debug\W6_DataHiding.exe
+F:\Workshop-OOP-Batch1\D1-S2\W6-DataHiding\W6-DataHiding\obj\Debug\W6_DataHiding.exe

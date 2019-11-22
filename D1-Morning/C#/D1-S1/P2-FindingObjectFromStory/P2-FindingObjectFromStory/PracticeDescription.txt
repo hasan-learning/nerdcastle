@@ -1,0 +1,27 @@
+﻿----------------Finding Object-------------------------
+
+"Suppose we want to keep some information of a Bank Account
+and want to deposit some amount into it and withdraw amount from
+it as well."
+
+1. Try to find an Object, their field and method from above
+story.
+
+2. Write the class with following appropriate* naming convention:
+
+*class name - what it is.
+ field name - what it contains
+ method name - what it does
+
+3. Create an object of your created class.
+4. Set the value of its field and call it's method
+
+
+
+
+
+
+
+
+
+

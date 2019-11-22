@@ -1,0 +1,7 @@
+G:\Dropbox\OOP Book in Bangla\Source Code\User-Defined Type\StudentExample\StudentExample\bin\Debug\StudentExample.exe.config
+G:\Dropbox\OOP Book in Bangla\Source Code\Chapter Two - User-Defined Type\StudentExample\StudentExample\bin\Debug\StudentExample.exe.config
+G:\Dropbox\OOP Book in Bangla\Source Code\Chapter Two - User-Defined Type\StudentExample\StudentExample\bin\Debug\StudentExample.exe
+G:\Dropbox\OOP Book in Bangla\Source Code\Chapter Two - User-Defined Type\StudentExample\StudentExample\bin\Debug\StudentExample.pdb
+G:\Dropbox\OOP Book in Bangla\Source Code\Chapter Two - User-Defined Type\StudentExample\StudentExample\obj\Debug\StudentExample.csprojResolveAssemblyReference.cache
+G:\Dropbox\OOP Book in Bangla\Source Code\Chapter Two - User-Defined Type\StudentExample\StudentExample\obj\Debug\StudentExample.exe
+G:\Dropbox\OOP Book in Bangla\Source Code\Chapter Two - User-Defined Type\StudentExample\StudentExample\obj\Debug\StudentExample.pdb

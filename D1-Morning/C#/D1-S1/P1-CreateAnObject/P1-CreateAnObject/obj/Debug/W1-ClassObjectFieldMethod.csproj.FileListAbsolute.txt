@@ -1,0 +1,9 @@
+F:\Workshop-OOP-Batch1\W1-ClassObjectFieldMethod\W1-ClassObjectFieldMethod\bin\Debug\W1-ClassObjectFieldMethod.exe.config
+F:\Workshop-OOP-Batch1\W1-ClassObjectFieldMethod\W1-ClassObjectFieldMethod\bin\Debug\W1-ClassObjectFieldMethod.exe
+F:\Workshop-OOP-Batch1\W1-ClassObjectFieldMethod\W1-ClassObjectFieldMethod\bin\Debug\W1-ClassObjectFieldMethod.pdb
+F:\Workshop-OOP-Batch1\W1-ClassObjectFieldMethod\W1-ClassObjectFieldMethod\obj\Debug\W1-ClassObjectFieldMethod.csprojResolveAssemblyReference.cache
+F:\Workshop-OOP-Batch1\W1-ClassObjectFieldMethod\W1-ClassObjectFieldMethod\obj\Debug\W1-ClassObjectFieldMethod.exe
+F:\Workshop-OOP-Batch1\W1-ClassObjectFieldMethod\W1-ClassObjectFieldMethod\obj\Debug\W1-ClassObjectFieldMethod.pdb
+F:\Workshop-OOP-Batch1\P1-CreateAnObject\W1-ClassObjectFieldMethod\bin\Debug\W1-ClassObjectFieldMethod.exe.config
+F:\Workshop-OOP-Batch1\P1-CreateAnObject\W1-ClassObjectFieldMethod\obj\Debug\W1-ClassObjectFieldMethod.exe
+F:\Workshop-OOP-Batch1\P1-CreateAnObject\W1-ClassObjectFieldMethod\obj\Debug\W1-ClassObjectFieldMethod.pdb

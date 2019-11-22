@@ -1,0 +1,5 @@
+F:\Workshop-OOP-Batch1\D1-S2\W11-ObjectAsMethodParameter\W11-ObjectAsMethodParameter\bin\Debug\W11-ObjectAsMethodParameter.exe.config
+F:\Workshop-OOP-Batch1\D1-S2\W11-ObjectAsMethodParameter\W11-ObjectAsMethodParameter\bin\Debug\W11-ObjectAsMethodParameter.exe
+F:\Workshop-OOP-Batch1\D1-S2\W11-ObjectAsMethodParameter\W11-ObjectAsMethodParameter\bin\Debug\W11-ObjectAsMethodParameter.pdb
+F:\Workshop-OOP-Batch1\D1-S2\W11-ObjectAsMethodParameter\W11-ObjectAsMethodParameter\obj\Debug\W11-ObjectAsMethodParameter.exe
+F:\Workshop-OOP-Batch1\D1-S2\W11-ObjectAsMethodParameter\W11-ObjectAsMethodParameter\obj\Debug\W11-ObjectAsMethodParameter.pdb

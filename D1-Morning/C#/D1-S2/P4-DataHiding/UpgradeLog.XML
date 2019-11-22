@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CircleExample">
+</Property><Property Name="Solution File" Value="D:\OOP(.Net) @ BASIS\OOP0141\Class Content and Video\07-June-2013\CircleExample\CircleExample.sln">
+</Property><Property Name="User Options File" Value="D:\OOP(.Net) @ BASIS\OOP0141\Class Content and Video\07-June-2013\CircleExample\CircleExample.suo">
+</Property><Property Name="Date" Value="Friday, June 07, 2013">
+</Property><Property Name="Time" Value="15:40 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CircleExample.sln" Description="File successfully backed up as D:\OOP(.Net) @ BASIS\OOP0141\Class Content and Video\07-June-2013\CircleExample\Backup\CircleExample.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CircleExample.suo" Description="File successfully backed up as D:\OOP(.Net) @ BASIS\OOP0141\Class Content and Video\07-June-2013\CircleExample\Backup\CircleExample.suo">
+</Event><Event ErrorLevel="0" Project="CircleExample" Source="CircleExample\CircleExample.csproj" Description="Project file successfully backed up as D:\OOP(.Net) @ BASIS\OOP0141\Class Content and Video\07-June-2013\CircleExample\Backup\CircleExample\CircleExample.csproj">
+</Event><Event ErrorLevel="0" Project="CircleExample" Source="CircleExample\Circle.cs" Description="File successfully backed up as D:\OOP(.Net) @ BASIS\OOP0141\Class Content and Video\07-June-2013\CircleExample\Backup\CircleExample\Circle.cs">
+</Event><Event ErrorLevel="0" Project="CircleExample" Source="CircleExample\Program.cs" Description="File successfully backed up as D:\OOP(.Net) @ BASIS\OOP0141\Class Content and Video\07-June-2013\CircleExample\Backup\CircleExample\Program.cs">
+</Event><Event ErrorLevel="0" Project="CircleExample" Source="CircleExample\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\OOP(.Net) @ BASIS\OOP0141\Class Content and Video\07-June-2013\CircleExample\Backup\CircleExample\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CircleExample" Source="CircleExample\CircleExample.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CircleExample" Source="CircleExample\CircleExample.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CircleExample.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CircleExample.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CircleExample" Source="CircleExample\CircleExample.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,2 @@
+F:\Workshop-OOP-Batch1\P2-FindingObjectFromStory\P2-FindingObjectFromStory\bin\Debug\P2-FindingObjectFromStory.exe.config
+F:\Workshop-OOP-Batch1\D1-S1\P2-FindingObjectFromStory\P2-FindingObjectFromStory\bin\Debug\P2-FindingObjectFromStory.exe.config

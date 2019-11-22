@@ -1,0 +1,6 @@
+F:\Workshop-OOP-Batch1\D1-S2\W7-ListOfNames\W7-ListOfNames\bin\Debug\W7_ListOfNames.exe.config
+F:\Workshop-OOP-Batch1\D1-S2\W7-ListOfNames\W7-ListOfNames\bin\Debug\W7_ListOfNames.exe
+F:\Workshop-OOP-Batch1\D1-S2\W7-ListOfNames\W7-ListOfNames\bin\Debug\W7_ListOfNames.pdb
+F:\Workshop-OOP-Batch1\D1-S2\W7-ListOfNames\W7-ListOfNames\obj\Debug\W7-ListOfNames.csprojResolveAssemblyReference.cache
+F:\Workshop-OOP-Batch1\D1-S2\W7-ListOfNames\W7-ListOfNames\obj\Debug\W7_ListOfNames.exe
+F:\Workshop-OOP-Batch1\D1-S2\W7-ListOfNames\W7-ListOfNames\obj\Debug\W7_ListOfNames.pdb

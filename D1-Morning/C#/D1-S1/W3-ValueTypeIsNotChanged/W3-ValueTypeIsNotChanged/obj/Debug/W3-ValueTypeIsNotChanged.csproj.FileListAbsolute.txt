@@ -1,0 +1,12 @@
+F:\Workshop-OOP-Batch1\W3-ValueTypeIsNotChanged\W3-ValueTypeIsNotChanged\bin\Debug\W3_ValueTypeIsNotChanged.exe.config
+F:\Workshop-OOP-Batch1\W3-ValueTypeIsNotChanged\W3-ValueTypeIsNotChanged\bin\Debug\W3_ValueTypeIsNotChanged.exe
+F:\Workshop-OOP-Batch1\W3-ValueTypeIsNotChanged\W3-ValueTypeIsNotChanged\bin\Debug\W3_ValueTypeIsNotChanged.pdb
+F:\Workshop-OOP-Batch1\W3-ValueTypeIsNotChanged\W3-ValueTypeIsNotChanged\obj\Debug\W3-ValueTypeIsNotChanged.csprojResolveAssemblyReference.cache
+F:\Workshop-OOP-Batch1\W3-ValueTypeIsNotChanged\W3-ValueTypeIsNotChanged\obj\Debug\W3_ValueTypeIsNotChanged.exe
+F:\Workshop-OOP-Batch1\W3-ValueTypeIsNotChanged\W3-ValueTypeIsNotChanged\obj\Debug\W3_ValueTypeIsNotChanged.pdb
+F:\Workshop-OOP-Batch1\D1-S1\W3-ValueTypeIsNotChanged\W3-ValueTypeIsNotChanged\bin\Debug\W3_ValueTypeIsNotChanged.exe.config
+F:\Workshop-OOP-Batch1\D1-S1\W3-ValueTypeIsNotChanged\W3-ValueTypeIsNotChanged\obj\Debug\W3_ValueTypeIsNotChanged.exe
+F:\Workshop-OOP-Batch1\D1-S1\W3-ValueTypeIsNotChanged\W3-ValueTypeIsNotChanged\obj\Debug\W3_ValueTypeIsNotChanged.pdb
+F:\Workshop-OOP-Batch1\D1-S1\W3-ValueTypeIsNotChanged\W3-ValueTypeIsNotChanged\bin\Debug\W3_ValueTypeIsNotChanged.exe
+F:\Workshop-OOP-Batch1\D1-S1\W3-ValueTypeIsNotChanged\W3-ValueTypeIsNotChanged\bin\Debug\W3_ValueTypeIsNotChanged.pdb
+F:\Workshop-OOP-Batch1\D1-S1\W3-ValueTypeIsNotChanged\W3-ValueTypeIsNotChanged\obj\Debug\W3-ValueTypeIsNotChanged.csprojResolveAssemblyReference.cache

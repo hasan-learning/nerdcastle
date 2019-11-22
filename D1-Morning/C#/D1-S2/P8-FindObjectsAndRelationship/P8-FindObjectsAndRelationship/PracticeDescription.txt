@@ -1,0 +1,15 @@
+﻿-----------------Shop & Product------------------
+Like last Walkthrough where we have discussed
+that a department has many students, now you are
+asked to keep many product information in a shop.
+
+Shop has name, location and Product has code, 
+unit price & description
+
+1. Find two object from above discussion
+
+2. Write classes and establish relationship 
+between them.
+
+3. Demostrate the code in Program class.
+
