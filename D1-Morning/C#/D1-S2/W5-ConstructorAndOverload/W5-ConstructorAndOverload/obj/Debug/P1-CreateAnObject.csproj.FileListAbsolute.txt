@@ -1,7 +1,0 @@
-F:\Workshop-OOP-Batch1\P1-CreateAnObject\W1-ClassObjectFieldMethod\bin\Debug\P1_CreateAnObject.exe.config
-F:\Workshop-OOP-Batch1\P1-CreateAnObject\P1-CreateAnObject\bin\Debug\P1_CreateAnObject.exe.config
-F:\Workshop-OOP-Batch1\P1-CreateAnObject\P1-CreateAnObject\bin\Debug\P1_CreateAnObject.exe
-F:\Workshop-OOP-Batch1\P1-CreateAnObject\P1-CreateAnObject\bin\Debug\P1_CreateAnObject.pdb
-F:\Workshop-OOP-Batch1\P1-CreateAnObject\P1-CreateAnObject\obj\Debug\P1-CreateAnObject.csprojResolveAssemblyReference.cache
-F:\Workshop-OOP-Batch1\P1-CreateAnObject\P1-CreateAnObject\obj\Debug\P1_CreateAnObject.exe
-F:\Workshop-OOP-Batch1\P1-CreateAnObject\P1-CreateAnObject\obj\Debug\P1_CreateAnObject.pdb

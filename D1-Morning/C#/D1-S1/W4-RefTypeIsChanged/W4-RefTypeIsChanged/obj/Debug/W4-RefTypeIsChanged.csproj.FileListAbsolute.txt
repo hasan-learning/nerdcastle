@@ -1,9 +1,0 @@
-F:\Workshop-OOP-Batch1\W4-RefTypeIsChanged\W4-RefTypeIsChanged\bin\Debug\ChangeMakerExample2.exe.config
-F:\Workshop-OOP-Batch1\W4-RefTypeIsChanged\W4-RefTypeIsChanged\obj\Debug\ChangeMakerExample2.exe
-F:\Workshop-OOP-Batch1\W4-RefTypeIsChanged\W4-RefTypeIsChanged\obj\Debug\ChangeMakerExample2.pdb
-F:\Workshop-OOP-Batch1\W4-RefTypeIsChanged\W4-RefTypeIsChanged\bin\Debug\W4_RefTypeIsChanged.exe.config
-F:\Workshop-OOP-Batch1\D1-S1\W4-RefTypeIsChanged\W4-RefTypeIsChanged\bin\Debug\W4_RefTypeIsChanged.exe.config
-F:\Workshop-OOP-Batch1\D1-S1\W4-RefTypeIsChanged\W4-RefTypeIsChanged\bin\Debug\W4_RefTypeIsChanged.exe
-F:\Workshop-OOP-Batch1\D1-S1\W4-RefTypeIsChanged\W4-RefTypeIsChanged\bin\Debug\W4_RefTypeIsChanged.pdb
-F:\Workshop-OOP-Batch1\D1-S1\W4-RefTypeIsChanged\W4-RefTypeIsChanged\obj\Debug\W4_RefTypeIsChanged.exe
-F:\Workshop-OOP-Batch1\D1-S1\W4-RefTypeIsChanged\W4-RefTypeIsChanged\obj\Debug\W4_RefTypeIsChanged.pdb

@@ -1,1 +1,0 @@
-F:\Workshop-OOP-Batch1\D1-S2\P6-FindTwoObjects\P6-FindTwoObjects\bin\Debug\P6-FindTwoObjects.exe.config

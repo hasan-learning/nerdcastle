@@ -1,9 +1,0 @@
-F:\Google Drive\OOP Book in Bangla\Source Code\CSharp Basics\ListExample1\ListExample1\bin\Debug\ListExample1.exe.config
-F:\Google Drive\OOP Book in Bangla\Source Code\CSharp Basics\ListExample1\ListExample1\bin\Debug\ListExample1.exe
-F:\Google Drive\OOP Book in Bangla\Source Code\CSharp Basics\ListExample1\ListExample1\bin\Debug\ListExample1.pdb
-F:\Google Drive\OOP Book in Bangla\Source Code\CSharp Basics\ListExample1\ListExample1\obj\Debug\ListExample1.csprojResolveAssemblyReference.cache
-F:\Google Drive\OOP Book in Bangla\Source Code\CSharp Basics\ListExample1\ListExample1\obj\Debug\ListExample1.exe
-F:\Google Drive\OOP Book in Bangla\Source Code\CSharp Basics\ListExample1\ListExample1\obj\Debug\ListExample1.pdb
-G:\Dropbox\OOP Book in Bangla\Source Code\Chapter One  - CSharp Basics\ListExample1\ListExample1\bin\Debug\ListExample1.exe.config
-G:\Dropbox\OOP Book in Bangla\Source Code\Chapter One  - CSharp Basics\ListExample1\ListExample1\obj\Debug\ListExample1.exe
-G:\Dropbox\OOP Book in Bangla\Source Code\Chapter One  - CSharp Basics\ListExample1\ListExample1\obj\Debug\ListExample1.pdb

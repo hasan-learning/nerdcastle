@@ -1,5 +1,0 @@
-F:\Workshop-OOP-Batch1\D1-S2\W10-ReturnObjectListFromMethod\W10-ReturnObjectListFromMethod\bin\Debug\W10-ReturnObjectListFromMethod.exe.config
-F:\Workshop-OOP-Batch1\D1-S2\W10-ReturnObjectListFromMethod\W10-ReturnObjectListFromMethod\bin\Debug\W10-ReturnObjectListFromMethod.exe
-F:\Workshop-OOP-Batch1\D1-S2\W10-ReturnObjectListFromMethod\W10-ReturnObjectListFromMethod\bin\Debug\W10-ReturnObjectListFromMethod.pdb
-F:\Workshop-OOP-Batch1\D1-S2\W10-ReturnObjectListFromMethod\W10-ReturnObjectListFromMethod\obj\Debug\W10-ReturnObjectListFromMethod.exe
-F:\Workshop-OOP-Batch1\D1-S2\W10-ReturnObjectListFromMethod\W10-ReturnObjectListFromMethod\obj\Debug\W10-ReturnObjectListFromMethod.pdb

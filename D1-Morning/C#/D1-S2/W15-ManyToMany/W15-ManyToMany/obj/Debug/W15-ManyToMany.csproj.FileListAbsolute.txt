@@ -1,6 +1,0 @@
-F:\Workshop-OOP-Batch1\D1-S2\W15-ManyToMany\W15-ManyToMany\bin\Debug\W15-ManyToMany.exe.config
-F:\Workshop-OOP-Batch1\D1-S2\W15-ManyToMany\W15-ManyToMany\bin\Debug\W15-ManyToMany.exe
-F:\Workshop-OOP-Batch1\D1-S2\W15-ManyToMany\W15-ManyToMany\bin\Debug\W15-ManyToMany.pdb
-F:\Workshop-OOP-Batch1\D1-S2\W15-ManyToMany\W15-ManyToMany\obj\Debug\W15-ManyToMany.csprojResolveAssemblyReference.cache
-F:\Workshop-OOP-Batch1\D1-S2\W15-ManyToMany\W15-ManyToMany\obj\Debug\W15-ManyToMany.exe
-F:\Workshop-OOP-Batch1\D1-S2\W15-ManyToMany\W15-ManyToMany\obj\Debug\W15-ManyToMany.pdb

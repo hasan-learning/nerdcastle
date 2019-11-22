@@ -1,3 +1,0 @@
-F:\Workshop-OOP-Batch1\D1-S2\P5-UseRefOfAnotherObject\P5-UseRefOfAnotherObject\bin\Debug\SolutionOfPractice1.exe.config
-F:\Workshop-OOP-Batch1\D1-S2\P5-UseRefOfAnotherObject\P5-UseRefOfAnotherObject\obj\Debug\SolutionOfPractice1.exe
-F:\Workshop-OOP-Batch1\D1-S2\P5-UseRefOfAnotherObject\P5-UseRefOfAnotherObject\obj\Debug\SolutionOfPractice1.pdb

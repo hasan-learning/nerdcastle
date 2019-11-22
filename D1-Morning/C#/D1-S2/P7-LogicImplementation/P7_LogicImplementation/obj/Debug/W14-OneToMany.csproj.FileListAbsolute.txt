@@ -1,8 +1,0 @@
-F:\Workshop-OOP-Batch1\D1-S2\W14-OneToMany\W14-OneToMany\bin\Debug\W14_OneToMany.exe.config
-F:\Workshop-OOP-Batch1\D1-S2\W14-OneToMany\W14-OneToMany\bin\Debug\W14_OneToMany.exe
-F:\Workshop-OOP-Batch1\D1-S2\W14-OneToMany\W14-OneToMany\bin\Debug\W14_OneToMany.pdb
-F:\Workshop-OOP-Batch1\D1-S2\W14-OneToMany\W14-OneToMany\obj\Debug\W14-OneToMany.csprojResolveAssemblyReference.cache
-F:\Workshop-OOP-Batch1\D1-S2\W14-OneToMany\W14-OneToMany\obj\Debug\W14_OneToMany.Properties.Resources.resources
-F:\Workshop-OOP-Batch1\D1-S2\W14-OneToMany\W14-OneToMany\obj\Debug\W14-OneToMany.csproj.GenerateResource.Cache
-F:\Workshop-OOP-Batch1\D1-S2\W14-OneToMany\W14-OneToMany\obj\Debug\W14_OneToMany.exe
-F:\Workshop-OOP-Batch1\D1-S2\W14-OneToMany\W14-OneToMany\obj\Debug\W14_OneToMany.pdb

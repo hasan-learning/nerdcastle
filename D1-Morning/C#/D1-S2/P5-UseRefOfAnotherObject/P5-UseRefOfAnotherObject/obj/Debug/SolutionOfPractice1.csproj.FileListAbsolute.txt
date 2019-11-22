@@ -1,9 +1,0 @@
-G:\Dropbox\OOP Book in Bangla\Source Code\Chapter Five - Association Relationship\SolutionOfPractice1\SolutionOfPractice1\bin\Debug\SolutionOfPractice1.exe.config
-G:\Dropbox\OOP Book in Bangla\Source Code\Chapter Five - Association Relationship\SolutionOfPractice1\SolutionOfPractice1\bin\Debug\SolutionOfPractice1.exe
-G:\Dropbox\OOP Book in Bangla\Source Code\Chapter Five - Association Relationship\SolutionOfPractice1\SolutionOfPractice1\bin\Debug\SolutionOfPractice1.pdb
-G:\Dropbox\OOP Book in Bangla\Source Code\Chapter Five - Association Relationship\SolutionOfPractice1\SolutionOfPractice1\obj\Debug\SolutionOfPractice1.csprojResolveAssemblyReference.cache
-G:\Dropbox\OOP Book in Bangla\Source Code\Chapter Five - Association Relationship\SolutionOfPractice1\SolutionOfPractice1\obj\Debug\SolutionOfPractice1.EmployeeUI.resources
-G:\Dropbox\OOP Book in Bangla\Source Code\Chapter Five - Association Relationship\SolutionOfPractice1\SolutionOfPractice1\obj\Debug\SolutionOfPractice1.Properties.Resources.resources
-G:\Dropbox\OOP Book in Bangla\Source Code\Chapter Five - Association Relationship\SolutionOfPractice1\SolutionOfPractice1\obj\Debug\SolutionOfPractice1.csproj.GenerateResource.Cache
-G:\Dropbox\OOP Book in Bangla\Source Code\Chapter Five - Association Relationship\SolutionOfPractice1\SolutionOfPractice1\obj\Debug\SolutionOfPractice1.exe
-G:\Dropbox\OOP Book in Bangla\Source Code\Chapter Five - Association Relationship\SolutionOfPractice1\SolutionOfPractice1\obj\Debug\SolutionOfPractice1.pdb

@@ -1,6 +1,0 @@
-F:\Workshop-OOP-Batch1\D1-S2\W13-OneToOne\W13-OneToOne\bin\Debug\W13-OneToOne.exe.config
-F:\Workshop-OOP-Batch1\D1-S2\W13-OneToOne\W13-OneToOne\obj\Debug\W13-OneToOne.csprojResolveAssemblyReference.cache
-F:\Workshop-OOP-Batch1\D1-S2\W13-OneToOne\W13-OneToOne\bin\Debug\W13-OneToOne.exe
-F:\Workshop-OOP-Batch1\D1-S2\W13-OneToOne\W13-OneToOne\bin\Debug\W13-OneToOne.pdb
-F:\Workshop-OOP-Batch1\D1-S2\W13-OneToOne\W13-OneToOne\obj\Debug\W13-OneToOne.exe
-F:\Workshop-OOP-Batch1\D1-S2\W13-OneToOne\W13-OneToOne\obj\Debug\W13-OneToOne.pdb

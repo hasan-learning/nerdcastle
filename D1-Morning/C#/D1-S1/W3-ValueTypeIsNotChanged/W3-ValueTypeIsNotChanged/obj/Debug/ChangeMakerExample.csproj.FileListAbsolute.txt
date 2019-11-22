@@ -1,9 +1,0 @@
-G:\Dropbox\OOP Book in Bangla\Source Code\User-Defined Type\ChangeMakerExample\ChangeMakerExample\bin\Debug\ChangeMakerExample.exe.config
-G:\Dropbox\OOP Book in Bangla\Source Code\User-Defined Type\ChangeMakerExample\ChangeMakerExample\bin\Debug\ChangeMakerExample.exe
-G:\Dropbox\OOP Book in Bangla\Source Code\User-Defined Type\ChangeMakerExample\ChangeMakerExample\bin\Debug\ChangeMakerExample.pdb
-G:\Dropbox\OOP Book in Bangla\Source Code\User-Defined Type\ChangeMakerExample\ChangeMakerExample\obj\Debug\ChangeMakerExample.csprojResolveAssemblyReference.cache
-G:\Dropbox\OOP Book in Bangla\Source Code\User-Defined Type\ChangeMakerExample\ChangeMakerExample\obj\Debug\ChangeMakerExample.exe
-G:\Dropbox\OOP Book in Bangla\Source Code\User-Defined Type\ChangeMakerExample\ChangeMakerExample\obj\Debug\ChangeMakerExample.pdb
-G:\Dropbox\OOP Book in Bangla\Source Code\Chapter Two - User-Defined Type\ChangeMakerExample\ChangeMakerExample\bin\Debug\ChangeMakerExample.exe.config
-G:\Dropbox\OOP Book in Bangla\Source Code\Chapter Two - User-Defined Type\ChangeMakerExample\ChangeMakerExample\obj\Debug\ChangeMakerExample.exe
-G:\Dropbox\OOP Book in Bangla\Source Code\Chapter Two - User-Defined Type\ChangeMakerExample\ChangeMakerExample\obj\Debug\ChangeMakerExample.pdb
