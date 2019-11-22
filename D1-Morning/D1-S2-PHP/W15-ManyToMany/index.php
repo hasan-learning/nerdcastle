@@ -10,19 +10,19 @@ $student3 = new Student("S-2434", "Sufi", "s@mail.com");
 $student4 = new Student("S-9735", "Kartik", "k@mail.com");
 
 $dept1 = new Department("CSE", "Computer Sc. & Engineering");
-$dept1->studentList = array($student1, $student2, $student3,$student4);
+$dept1->setStudentList (array($student1, $student2, $student3,$student4));
 
 $course1 = new Course("Programming Basics", 3.5);
 $course2 = new Course("Jave Basics", 3.5);
 
-$dept1->courseList = array($course1, $course2);
+$dept1->setCourseList (array($course1, $course2));
 
 $enr1 = new Enrollment($student2, $course1, "2019, 10, 17");
 $enr2 = new Enrollment($student1, $course2, "2019, 10, 13");
 $enr3 = new Enrollment($student3, $course2, "2019, 10, 25");
 
-$dept1->enrollmentList = array($enr1, $enr2, $enr3);
+$dept1->setEnrollmentList ( array($enr1, $enr2, $enr3));
 
-foreach ($dept1->enrollmentList as $anEnr){
-    echo $anEnr->student->regNo . " " . $anEnr->course->title . " " . $anEnr->enrollmentDate; echo "<br>";
+foreach ($dept1->getEnrollmentList() as $anEnr){
+    echo $anEnr->getStudent()->getRegNo() . " " . $anEnr->getCourse()->getTitle() . " " . $anEnr->getEnrollmentDate(); echo "<br>";
 }
