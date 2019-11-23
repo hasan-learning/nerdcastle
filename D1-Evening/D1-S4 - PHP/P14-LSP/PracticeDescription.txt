@@ -1,0 +1,14 @@
+﻿---------- Applu LSP--------------
+
+Look into the following two lines in Main method:
+
+LoanAccount ln1 = new LoanAccount();
+ln1.Withdraw(1000); // very harmful
+
+A loan has no withdraw facility, but our code
+offer this method for loan. 
+
+This code voilates LSP. Now, update your code so that
+it will conform LSP.
+
+

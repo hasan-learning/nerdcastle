@@ -1,0 +1,4 @@
+﻿----------Implement IComparable--------------------
+
+Implement IComparable in Student class so that
+it can be sortable by CGPA

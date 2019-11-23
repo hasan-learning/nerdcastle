@@ -1,0 +1,6 @@
+﻿----------- Apply Inheritance --------------
+Story is described in Apply Inheritance picture.
+
+1. Find the objects from there
+2. Find similar or common parts
+3. Apply inheritance

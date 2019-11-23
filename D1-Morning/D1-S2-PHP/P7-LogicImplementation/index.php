@@ -9,7 +9,8 @@ $student4 = new Student("S-9735", "Kartik", "k@mail.com");
 
 $dept1 = new Department("CSE", "Computer Sc. & Engineering");
 $dept1->setStudentList(array($student1, $student2, $student3,$student4));
-
+$student5 = new Student("S-9735", "Hasan", "fd@mail.com");
+$dept1->addStudent($student5);
 foreach ($dept1->getStudentList() as $aStudent){
     echo $aStudent->getRegNo() . " " . $aStudent->getEmail() . " " . $aStudent->getName(); echo "<br>";
 }

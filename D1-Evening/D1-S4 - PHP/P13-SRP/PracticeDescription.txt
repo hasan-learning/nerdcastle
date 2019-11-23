@@ -1,0 +1,3 @@
+﻿---------Apply SRP----------
+
+Split Person class to ensure SRP in your code

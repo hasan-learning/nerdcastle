@@ -37,6 +37,19 @@ class Department
         $this->studentList = $studentList;
     }
 
+    public function addStudent($student){
+
+      foreach ($this->studentList as $studentData){
+        if($studentData->getRegNo() == $student->getRegNo()){
+          return 'Duplicate entry';
+        }
+      }
+
+      array_push($this->studentList,$student);
+
+      return "Added";
+
+    }
 
 
     public function __construct($code, $name)
