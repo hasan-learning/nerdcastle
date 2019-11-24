@@ -6,6 +6,6 @@ class EmailSender implements NotificationAction
 
     public function actOnNotification($message)
     {
-        // TODO: Implement actOnNotification() method.
+        echo 'Email Send successfully!';
     }
 }

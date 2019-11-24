@@ -1,4 +1,5 @@
 <?php
+//Dependency injection  (DI)
 include_once "AppPoolWatcher.php";
 include_once "EventLogWriter.php";
 include_once "EmailSender.php";

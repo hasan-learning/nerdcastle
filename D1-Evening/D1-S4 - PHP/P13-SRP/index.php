@@ -1,4 +1,6 @@
 <?php
+include_once "SaveData.php";
+include_once "PrintData.php";
 include_once "Person.php";
 
 $aPerson = new Person();

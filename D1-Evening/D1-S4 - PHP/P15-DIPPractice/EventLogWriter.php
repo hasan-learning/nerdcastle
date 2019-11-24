@@ -6,6 +6,6 @@ class EventLogWriter implements NotificationAction
 
     public function actOnNotification($message)
     {
-        // TODO: Implement actOnNotification() method.
+      echo 'Log written successfully!';
     }
 }

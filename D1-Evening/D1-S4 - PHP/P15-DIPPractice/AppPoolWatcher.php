@@ -2,7 +2,7 @@
 include_once "NotificationAction.php";
 include_once "EventLogWriter.php";
 
-class AppPoolWatcher
+class AppPoolWatcher implements NotificationAction
 {
     private $action;
 
@@ -13,7 +13,7 @@ class AppPoolWatcher
     }
 
 
-    public function setAction($action)
+    public function actOnNotification($action)
     {
         $this->action = $action;
     }
